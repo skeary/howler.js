@@ -235,7 +235,7 @@
     _isEdge: function() {
       var ua = window.navigator.userAgent;
       return ua.indexOf('Edge/') > 0;
-    }
+    },
 
     /**
      * Check for browser support for various codecs and cache the results.
